@@ -1,7 +1,3 @@
-# Shovel plugin for OpenStack Horizon dashboard
+# This repo has moved to OpenDev
 
-- [Configure Openstack to Boot Baremetal nodes](setup_openstack.md)
-- git clone shovel-horizon.git
-- cd shovel-horizon
-- sudo ./install.sh --url 'Shovel Url' --location 'Horizon Path'
-- sudo service apache2 restart
+It can now be found at [https://opendev.org/x/shovel-horizon](https://opendev.org/x/shovel-horizon)
